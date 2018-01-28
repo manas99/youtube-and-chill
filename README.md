@@ -3,6 +3,7 @@ An atom plugin that allows you to watch YouTube videos alongside your code. Be i
 
 ## Getting Started
 **Manual:** Download the repository and extract it into the atom package's directory.
+**APM:** In the command prompt or the terminal type `apm install youtube-and-chill`.
 
 ## Usage
 Press `ctrl-alt-o` to toggle the URL input bar.
