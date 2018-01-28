@@ -11,3 +11,6 @@ A new panel with the required video will appear.
 
 ##Contributing
 A proper guide is in progress, but be sure to ping me at `oswal.manu@gmail.com` with the subject `ync contribution`.
+
+##Authors
+Manas Oswal 
