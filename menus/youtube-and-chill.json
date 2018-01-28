@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Enter Youtube URL YouTube-And-Chill",
+        "command": "youtube-and-chill:enterURL"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "youtube-and-chill",
+          "submenu": [
+            {
+              "label": "Enter URL",
+              "command": "youtube-and-chill:enterURL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

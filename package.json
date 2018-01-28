@@ -1,0 +1,19 @@
+{
+  "name": "youtube-and-chill",
+  "main": "./lib/youtube-and-chill",
+  "version": "0.0.0",
+  "description": "Now watch YouTube videos alongside your code! Be it some random funny video or a learn-how-to.",
+  "keywords": [
+      "multitasking", "watch", "YouTube"
+  ],
+  "activationCommands": {
+    "atom-workspace": "youtube-and-chill:enterURL"
+  },
+  "repository": "https://github.com/manas99/youtube-and-chill",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
