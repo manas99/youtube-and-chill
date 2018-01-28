@@ -1,5 +1,5 @@
 {
-  "name": "youtube-and-chill",
+  "name": "Youtube-and-chill",
   "main": "./lib/youtube-and-chill",
   "version": "0.0.0",
   "description": "Now watch YouTube videos alongside your code! Be it some random funny video or a learn-how-to.",
