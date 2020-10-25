@@ -1,7 +1,7 @@
 {
   "name": "Youtube-and-chill",
   "main": "./lib/youtube-and-chill",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Now watch YouTube videos alongside your code! Be it some random funny video or a learn-how-to.",
   "keywords": [
     "multitasking",
