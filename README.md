@@ -13,18 +13,20 @@ Enter the YouTube video URL (along with the playlist) and hit `Go!`. If unsure w
 
 A new panel with the video will appear!
 
+
+
 ## Contributing
-- [ ] Add Testing
-- [ ] Document the code
-- [ ] Discuss new features and add them (lets discuss in Issues)
-- [ ] Add support for other content providers.
+- Add Testing
+- Document the code
+- Discuss new features and add them (lets discuss in Issues)
+- Add support for other content providers.
+- Personalize the experience. By showing related videos, google sign in, etc.
 
 ## Authors
 Manas Oswal
 
-####Send Love
+#### Send Love
 
 **Bitcoin Address:** 1P26Qb3uAL8JZ3Fah4TwVo9JEBucHUcNJ5
 
-**Paypal: **[paypal.me/manasoswal](paypal.me/manasoswal)
-
+**Paypal:** [paypal.me/manasoswal](https://paypal.me/manasoswal)
