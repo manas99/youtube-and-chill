@@ -17,6 +17,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "parse-url": "^5.0.2"
+    "parse-url": "^6.0.1"
   }
 }
